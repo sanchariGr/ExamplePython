@@ -1,4 +1,4 @@
-# Vinted Dashboard
+# Example Dashboard
 
 A UI automation solution to Vinted dashboard using pytest and selenium.
 Can be run in both the uk and de portals, more details here [Configurations](#configurations)
