@@ -1,0 +1,20 @@
+
+# misc
+.idea/
+
+#selenium error logs
+pytest-allure/.log
+pytest-allure/.png
+pytest-allure/.html
+reports/.json
+
+# python
+*.pyc
+__pycache__/
+venv/
+.pytest_cache/
+
+.scannerwork/
+
+# misc
+todo.txt
