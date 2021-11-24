@@ -4,7 +4,7 @@ import os
 SELENIUM_GRID = None
 
 # DE Vinted Url
-WEBSITE_URL = 'https://www.vinted.de'
+WEBSITE_URL = 'https://localhost:8080'
 BRAND_FILTER= 'Marke'
 PRICE_FILTER= 'Preis'
 FILTER_RESULT= ['Von 20,00 €', 'Bis 50,00 €']
