@@ -1,6 +1,6 @@
 # Example Dashboard
 
-A UI automation solution to Vinted dashboard using pytest and selenium.
+A UI automation solution to generic dashboard using pytest and selenium.
 Can be run in both the uk and de portals, more details here [Configurations](#configurations)
 Multilingual platform is handled using the --cfg folder option. Another option is to use `importlib.import module` to load data files and use it instead(wasn't implemented here!)
 Screenshots on failure are also implemented via the fixture `get_screenshot_on_test_failure`.
